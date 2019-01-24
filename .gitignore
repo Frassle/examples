@@ -1,6 +1,7 @@
 /.pulumi/
 /.vscode/
 bin/
+obj/
 node_modules/
 *.pyc
 .Python
